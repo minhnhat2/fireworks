@@ -3,7 +3,7 @@ import pygame
 from random import randint, uniform, choice
 import math
 
-vector2 = pygame.math.Vector2
+vector2 = pygame.math.Vector2 
 trails = []
 fade_p = []
 
